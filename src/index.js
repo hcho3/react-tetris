@@ -323,6 +323,12 @@ class Game extends React.Component {
           fontSize: '15pt',
         }}>Tetris</h2>
         <p>{statusText}</p>
+        <p>&nbsp;</p>
+        <ul>
+          <li>Left, Right: Move block</li>
+          <li>Up, Down: Rotate block</li>
+          <li>Space: Drop block</li>
+        </ul>
       </div>
     ];
   }
