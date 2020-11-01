@@ -10,7 +10,7 @@ const TetrominoShape = {
 };
 Object.freeze(TetrominoShape);
 
-const squareDim = 20;
+const squareDim = 25;
 const numRowInBoard = 22;
 const numColInBoard = 10;
 const BoardWidth = numColInBoard * squareDim;
