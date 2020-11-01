@@ -329,6 +329,9 @@ class Game extends React.Component {
           <li>Up, Down: Rotate block</li>
           <li>Space: Drop block</li>
         </ul>
+        <p>
+          <a href="https://github.com/hcho3/react-tetris">Source available @ GitHub</a>
+        </p>
       </div>
     ];
   }
