@@ -240,7 +240,7 @@ class Game extends React.Component {
     document.addEventListener('keydown', (event) => this.handleKeyDown(event), false);
     this.timer = setInterval(
       () => this.handleTimerTick(),
-      150
+      200
     );
     this.start();
   }
