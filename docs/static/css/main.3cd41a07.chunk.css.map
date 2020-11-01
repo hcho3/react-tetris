@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,MACE,cAAe,CACf,0BACF","file":"main.3cd41a07.chunk.css","sourcesContent":["ul, li {\n  padding-left: 0;\n  list-style-position: inside;\n}\n"]}
